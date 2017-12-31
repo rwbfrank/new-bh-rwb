@@ -1,0 +1,653 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-16 09:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: class-cert-expiration.php:9
+msgid "Not detected"
+msgstr ""
+
+#: class-cert-expiration.php:165
+msgid "SSL certificate expiration warning"
+msgstr ""
+
+#: class-cert-expiration.php:166
+msgid "According to the check that was performed just now on "
+msgstr ""
+
+#: class-cert-expiration.php:167
+msgid " the SSL certificate is expiring soon. The ValidTo date is:"
+msgstr ""
+
+#: class-cert-expiration.php:171
+msgid "Please renew your certificate before the expiry date."
+msgstr ""
+
+#: class-importer.php:29
+msgid "Roll back file changes"
+msgstr ""
+
+#: class-importer.php:62
+msgid ""
+"Someting went wrong. If this doesn't work, you can put the original files "
+"back by changing files named 'rsssl-bkp-filename' to filename."
+msgstr ""
+
+#: class-importer.php:75
+msgid "Your files were restored."
+msgstr ""
+
+#: class-importer.php:77
+msgid "Your files already were restored."
+msgstr ""
+
+#: class-importer.php:95 class-importer.php:195
+msgid ""
+"Something went wrong. Please refresh the page and try again, or fix manually."
+msgstr ""
+
+#: class-importer.php:120
+msgid "There was a problem editing the file. Please try manually."
+msgstr ""
+
+#: class-importer.php:139
+msgid ""
+"Someting went wrong. Please refresh the page and try again, or fix manually."
+msgstr ""
+
+#: class-importer.php:169
+msgid ""
+"The file could not be downloaded. It might not exist, or downloading is "
+"blocked. Fix manually."
+msgstr ""
+
+#: class-importer.php:229
+msgid ""
+"The file could not be downloaded. The file might not exist, or downloading "
+"is be blocked by the server. Fix manually."
+msgstr ""
+
+#: class-licensing.php:45
+msgid ""
+"You haven't activated your Really Simple SSL pro license yet. To get all "
+"future updates, enter your license on the settings page."
+msgstr ""
+
+#: class-licensing.php:46
+msgid "Go to the settings page"
+msgstr ""
+
+#: class-licensing.php:111
+msgid "License"
+msgstr ""
+
+#: class-multisite.php:55
+msgid "Sites overview"
+msgstr ""
+
+#: class-multisite.php:63
+msgid "Here you can see the current status of the sites in your network."
+msgstr ""
+
+#: class-multisite.php:107
+msgid "deactivate"
+msgstr ""
+
+#: class-multisite.php:107
+msgid "activate"
+msgstr ""
+
+#: class-multisite.php:118
+msgid "Active"
+msgstr ""
+
+#: class-multisite.php:119
+msgid "Site"
+msgstr ""
+
+#: class-multisite.php:130
+msgid "previous"
+msgstr ""
+
+#: class-multisite.php:130
+msgid "next"
+msgstr ""
+
+#: class-premium-options.php:10 class-scan.php:36
+#, php-format
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr ""
+
+#: class-premium-options.php:125
+msgid "Turn HTTP Strict Transport Security on"
+msgstr ""
+
+#: class-premium-options.php:128
+msgid "Configure your site for the HSTS preload list"
+msgstr ""
+
+#: class-premium-options.php:138
+msgid "Receive an email when your certificate is about to expire"
+msgstr ""
+
+#: class-premium-options.php:139
+msgid "Enable the mixed content fixer on the WordPress back-end"
+msgstr ""
+
+#: class-premium-options.php:162
+msgid "Your certificate needs to be renewed soon, it is valid to: "
+msgstr ""
+
+#: class-premium-options.php:164
+msgid "Your certificate is valid to: "
+msgstr ""
+
+#: class-premium-options.php:166
+msgid "(date updated once a week)"
+msgstr ""
+
+#: class-premium-options.php:178
+msgid "HTTP Strict Transport Security was set"
+msgstr ""
+
+#: class-premium-options.php:180
+msgid ""
+"<a href=\"https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security\" "
+"target=\"_blank\">HTTP Strict Transport Security</a> is not enabled."
+msgstr ""
+
+#: class-premium-options.php:182
+msgid "Enable HSTS"
+msgstr ""
+
+#: class-premium-options.php:198
+msgid ""
+"Your site has been configured for the HSTS preload list. If you have "
+"submitted your site, it will be preloaded."
+msgstr ""
+
+#: class-premium-options.php:199
+msgid "Click"
+msgstr ""
+
+#: class-premium-options.php:199
+msgid "here"
+msgstr ""
+
+#: class-premium-options.php:199
+msgid "to submit."
+msgstr ""
+
+#: class-premium-options.php:201
+msgid ""
+"Your site is not yet configured for the <a href=\"https://hstspreload."
+"appspot.com\" target=\"_blank\">HSTS preload list</a>. Read the "
+"documentation carefully before you do!"
+msgstr ""
+
+#: class-premium-options.php:203
+msgid "Enable the preload list"
+msgstr ""
+
+#: class-premium-options.php:219
+msgid "You have the mixed content fixer activated on your admin panel."
+msgstr ""
+
+#: class-premium-options.php:240
+msgid ""
+"Are you sure? Your visitors will keep going to a https site for a year after "
+"you turn this off."
+msgstr ""
+
+#: class-premium-options.php:258
+msgid ""
+"If your hosting company renews the certificate for you, you probably don't "
+"need to enable this setting."
+msgstr ""
+
+#: class-premium-options.php:259
+msgid ""
+"If your certificate expires, your site goes offline. Uptime robots don't "
+"alert you when this happens."
+msgstr ""
+
+#: class-premium-options.php:260
+msgid ""
+"If you enable this option you will receive an email when your certificate is "
+"about to expire within 2 weeks."
+msgstr ""
+
+#: class-premium-options.php:276
+msgid ""
+"Use this option if you do not have the green lock in the WordPress admin."
+msgstr ""
+
+#: class-premium-options.php:284
+msgid "Did you read the information on the preload list site?"
+msgstr ""
+
+#: class-premium-options.php:286
+msgid ""
+"The preload list offers even more security, as browsers already will know to "
+"load your site over SSL before a user ever visits it. This is very hard to "
+"undo!"
+msgstr ""
+
+#: class-premium-options.php:287
+msgid ""
+"Please note that all subdomains, and both www and non-www domain need to be "
+"https!"
+msgstr ""
+
+#: class-premium-options.php:288
+msgid ""
+"Before submitting, please read the information on hstspreload.appspot.com"
+msgstr ""
+
+#: class-premium-options.php:290
+msgid "After enabling this option, you have to "
+msgstr ""
+
+#: class-premium-options.php:291
+msgid "submit"
+msgstr ""
+
+#: class-premium-options.php:292
+msgid "your site."
+msgstr ""
+
+#: class-premium-options.php:431
+msgid ""
+"No scan completed yet. Before migrating to SSL, you should do a <a "
+"href=\"options-general.php?page=rlrsssl_really_simple_ssl&tab=scan\">scan</a>"
+msgstr ""
+
+#: class-premium-options.php:433
+msgid "Previous scan completed with issues"
+msgstr ""
+
+#: class-scan.php:119
+msgid "Generating list of website pages"
+msgstr ""
+
+#: class-scan.php:152 class-scan.php:1435
+msgid "Never"
+msgstr ""
+
+#: class-scan.php:158
+msgid "at"
+msgstr ""
+
+#: class-scan.php:173
+msgid "Mixed content scan"
+msgstr ""
+
+#: class-scan.php:175
+msgid "For best results, deactivate caching and/or security plugins."
+msgstr ""
+
+#: class-scan.php:176
+msgid ""
+"If your scan freezes, try disabling curl or brute force database search."
+msgstr ""
+
+#: class-scan.php:179
+msgid "Disable brute force database search."
+msgstr ""
+
+#: class-scan.php:181
+msgid "Disable curl."
+msgstr ""
+
+#: class-scan.php:191
+msgid "SCAN"
+msgstr ""
+
+#: class-scan.php:193
+msgid "QUICK SCAN"
+msgstr ""
+
+#: class-scan.php:194
+msgid "FULL SCAN"
+msgstr ""
+
+#: class-scan.php:253
+msgid "Searching for js and css files and external resources in website"
+msgstr ""
+
+#: class-scan.php:297
+msgid "Generating file list"
+msgstr ""
+
+#: class-scan.php:311
+msgid "Checking which posts contain external resources"
+msgstr ""
+
+#: class-scan.php:375
+msgid "Looking up blocked resources in posts"
+msgstr ""
+
+#: class-scan.php:1052
+msgid "Blocked url's "
+msgstr ""
+
+#: class-scan.php:1061
+msgid "In Theme file"
+msgstr ""
+
+#: class-scan.php:1064
+msgid "In Plugin file"
+msgstr ""
+
+#: class-scan.php:1067
+msgid "File in uploads directory, possibly generated by plugin or theme"
+msgstr ""
+
+#: class-scan.php:1070 class-scan.php:1138
+msgid "File"
+msgstr ""
+
+#: class-scan.php:1076 class-scan.php:1144 class-scan.php:1197
+msgid "Found in file:"
+msgstr ""
+
+#: class-scan.php:1077 class-scan.php:1252
+msgid "Url cannot load over https"
+msgstr ""
+
+#: class-scan.php:1110 class-scan.php:1183
+msgid "No references to domains without ssl certificate found."
+msgstr ""
+
+#: class-scan.php:1121
+msgid "CSS and JS files with mixed content"
+msgstr ""
+
+#: class-scan.php:1129
+msgid "Theme file"
+msgstr ""
+
+#: class-scan.php:1132
+msgid "Plugin file"
+msgstr ""
+
+#: class-scan.php:1135
+msgid "Uploads file, possibly generated by plugin or theme"
+msgstr ""
+
+#: class-scan.php:1145
+msgid "Reference to file with http://"
+msgstr ""
+
+#: class-scan.php:1196
+msgid "CSS and JS files from other domains with mixed content"
+msgstr ""
+
+#: class-scan.php:1206
+msgid "http link"
+msgstr ""
+
+#: class-scan.php:1209
+msgid "File containing this url: "
+msgstr ""
+
+#: class-scan.php:1228
+msgid "Remote file: "
+msgstr ""
+
+#: class-scan.php:1241
+msgid "No CSS and JS files on other domains with mixed content."
+msgstr ""
+
+#: class-scan.php:1254
+msgid "Posts with blocked resources"
+msgstr ""
+
+#: class-scan.php:1299
+msgid ""
+"No posts found that contain references to domains without an SSL certificate."
+msgstr ""
+
+#: class-scan.php:1306
+msgid "Found in:"
+msgstr ""
+
+#: class-scan.php:1307
+msgid "File:"
+msgstr ""
+
+#: class-scan.php:1309
+msgid "Blocked resources the database"
+msgstr ""
+
+#: class-scan.php:1348
+msgid "No references to blocked resources found within the database."
+msgstr ""
+
+#: class-scan.php:1365
+msgid "Used on page:"
+msgstr ""
+
+#. not found, so no source
+#: class-scan.php:1381 class-scan.php:1382
+msgid "Unknown"
+msgstr ""
+
+#: class-scan.php:1395
+msgid ""
+"The scan was not able to determine where this url is located. Please contact "
+"support."
+msgstr ""
+
+#: class-scan.php:1581
+msgid "Plugin not found"
+msgstr ""
+
+#: class-scan.php:1646
+msgid "The native Wordpress function is_ssl() returned true"
+msgstr ""
+
+#: class-scan.php:1648
+msgid "The native Wordpress function is_ssl() returned false"
+msgstr ""
+
+#: class-scan.php:1655 class-scan.php:1663
+msgid "Great! Your scan last completed without errors."
+msgstr ""
+
+#: class-scan.php:1657
+msgid ""
+"The last scan was completed with errors. Only migrate if you are sure the "
+"found errors are not a problem for your site."
+msgstr ""
+
+#: class-scan.php:1659
+msgid ""
+"You haven't scanned the site yet, you should scan your site to check for "
+"possible issues before migrating to ssl."
+msgstr ""
+
+#: class-scan.php:1665
+msgid ""
+"The last scan was completed with errors. Are you sure these issues don't "
+"impact your site?."
+msgstr ""
+
+#: class-scan.php:1667
+msgid ""
+"You haven't scanned the site yet, you should scan your site to check for "
+"possible issues."
+msgstr ""
+
+#: class-scan.php:1675
+msgid "Scan for issues"
+msgstr ""
+
+#: class-scan.php:1745 class-scan.php:1771
+msgid "Import and insert file"
+msgstr ""
+
+#: class-scan.php:1748 class-scan.php:1774
+msgid "Copyright warning!"
+msgstr ""
+
+#: class-scan.php:1750 class-scan.php:1775
+msgid ""
+"Downloading files from other websites can cause serious copyright issues! It "
+"is always illegal to use images, files, or any copyright protected material "
+"on your own site without the consent of the copyrightholder. Please ask the "
+"copyrightholder for permission. Use this function at your own risk."
+msgstr ""
+
+#: class-scan.php:1752
+msgid ""
+"This downloads the file from the domain without SSL, inserts it into WP "
+"media, and changes the URL to the new URL."
+msgstr ""
+
+#: class-scan.php:1756
+msgid "I have read the warning, continue"
+msgstr ""
+
+#: class-scan.php:1777
+msgid ""
+"This function downloads the file from the domain without SSL, inserts it "
+"into WP media, and changes the URL to the new URL."
+msgstr ""
+
+#: class-scan.php:1778 class-scan.php:1802 class-scan.php:1854
+msgid "Always backup first!"
+msgstr ""
+
+#: class-scan.php:1779
+msgid ""
+"Be very carefull with this function! Please backup your site before "
+"proceeding. This function will also create a backup of each changed file, "
+"name rsssl-bkp-filename. You can use the 'roll back files' function to "
+"restore the original files."
+msgstr ""
+
+#: class-scan.php:1784
+msgid "I have read the warnings, continue"
+msgstr ""
+
+#: class-scan.php:1799
+msgid "Fix http in CSS and JS files"
+msgstr ""
+
+#: class-scan.php:1803
+msgid ""
+"This function will change the urls to the protocol independent // instead of "
+"http://"
+msgstr ""
+
+#: class-scan.php:1805
+msgid ""
+"If these files are generated by a theme or plugin, it is best to change the "
+"settings in that plugin instead. Otherwise your changes maybe overwritten by "
+"the plugin."
+msgstr ""
+
+#: class-scan.php:1810
+msgid "Fix urls"
+msgstr ""
+
+#: class-scan.php:1825
+msgid "Roll back changes made to your files"
+msgstr ""
+
+#: class-scan.php:1828
+msgid ""
+"This will put the files back that were changed by the fix option in Really "
+"Simple SSL pro."
+msgstr ""
+
+#: class-scan.php:1830
+msgid ""
+"Please note that any changes you have made since to your current files, will "
+"be lost. "
+msgstr ""
+
+#: class-scan.php:1835
+msgid "Restore files"
+msgstr ""
+
+#: class-scan.php:1850
+msgid "Edit file"
+msgstr ""
+
+#: class-scan.php:1855
+msgid "Editing files can break your site if you do not do it right!"
+msgstr ""
+
+#: class-scan.php:1858
+msgid "File editing blocked in WordPress!"
+msgstr ""
+
+#: class-scan.php:1859
+msgid ""
+"File editing is blocked in WordPress. To edit these files, please use your "
+"FTP client."
+msgstr ""
+
+#: class-scan.php:1865
+msgid "Go to editor"
+msgstr ""
+
+#: really-simple-ssl-pro.php:146 really-simple-ssl-pro.php:154
+msgid "Plugin dependency error"
+msgstr ""
+
+#: really-simple-ssl-pro.php:147
+msgid ""
+"Really Simple SSL pro is an add-on for Really Simple SSL, and cannot do it "
+"on its own :("
+msgstr ""
+
+#: really-simple-ssl-pro.php:148
+msgid ""
+"Please install and activate Really Simple SSL before activating this add-on."
+msgstr ""
+
+#: really-simple-ssl-pro.php:155
+msgid ""
+"Really Simple SSL or Really Simple SSL per page needs to be updated to the "
+"latest version to be compatible."
+msgstr ""
+
+#: really-simple-ssl-pro.php:156
+msgid ""
+"Please upgrade to the latest version to be able use the full functionality "
+"of the plugin."
+msgstr ""
+
+#. Name of the plugin
+msgid "Really Simple SSL pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add on for Really Simple SSL"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.really-simple-ssl.com/pro"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rogier Lankhorst"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.rogierlankhorst.com"
+msgstr ""

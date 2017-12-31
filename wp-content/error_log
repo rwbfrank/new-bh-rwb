@@ -1,0 +1,5 @@
+[26-Dec-2017 13:00:58 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 13:01:13 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 13:02:05 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[31-Dec-2017 18:29:20 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:33:33 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211

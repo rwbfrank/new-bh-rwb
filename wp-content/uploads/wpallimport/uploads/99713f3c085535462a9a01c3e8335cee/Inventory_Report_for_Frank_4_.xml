@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<stocknumber><![CDATA[1011RRR]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[JTDBE32K620003210]]></fullvin>
+		<carcolor><![CDATA[WHITE]]></carcolor>
+		<year><![CDATA[2002]]></year>
+		<asking><![CDATA[5999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[CAMRY]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[205930]]></mileage>
+		<daysininventory><![CDATA[54]]></daysininventory>
+		<transmissiontype><![CDATA[5SPD STANDARD]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[1808R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[3C4FY58834T218856]]></fullvin>
+		<carcolor><![CDATA[BLACK]]></carcolor>
+		<year><![CDATA[2004]]></year>
+		<asking><![CDATA[7999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHRYSLER]]></make>
+		<model><![CDATA[PT CRUISER]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; DOHC 16V; TURBO]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[80061]]></mileage>
+		<daysininventory><![CDATA[96]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2315R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1AK15F967835279]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2006]]></year>
+		<asking><![CDATA[11999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[COBALT]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[COUPE]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.2L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[96329]]></mileage>
+		<daysininventory><![CDATA[82]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2414AR]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1NXBR32E06Z589038]]></fullvin>
+		<carcolor><![CDATA[GOLD]]></carcolor>
+		<year><![CDATA[2006]]></year>
+		<asking><![CDATA[5999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[COROLLA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.8L; EFI]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[189735]]></mileage>
+		<daysininventory><![CDATA[40]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2565R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G4WD532351279170]]></fullvin>
+		<carcolor><![CDATA[GREY]]></carcolor>
+		<year><![CDATA[2005]]></year>
+		<asking><![CDATA[11999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[BUICK]]></make>
+		<model><![CDATA[LACROSSE]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DR]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.8L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[108764]]></mileage>
+		<daysininventory><![CDATA[145]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2776R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G2ZH17N284200409]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2008]]></year>
+		<asking><![CDATA[13999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[PONTIAC]]></make>
+		<model><![CDATA[G6]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[2 DOOR COUPE]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.5L; SFI]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[75840]]></mileage>
+		<daysininventory><![CDATA[41]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2793R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[5NPEU46F57H184331]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[12999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HYUNDAI]]></make>
+		<model><![CDATA[SONATA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.3L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[136674]]></mileage>
+		<daysininventory><![CDATA[103]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2824R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G2AL18H697132720]]></fullvin>
+		<carcolor><![CDATA[GRAY]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[12999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[PONTIAC]]></make>
+		<model><![CDATA[G5]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[2 DOOR COUPE (N)]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.2L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[96801]]></mileage>
+		<daysininventory><![CDATA[61]]></daysininventory>
+		<transmissiontype><![CDATA[5 SPEED MANUAL]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[2888R]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G8AJ55F16Z197559]]></fullvin>
+		<carcolor><![CDATA[GREEN]]></carcolor>
+		<year><![CDATA[2006]]></year>
+		<asking><![CDATA[8999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[SATURN]]></make>
+		<model><![CDATA[ION]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.2L; DOHC 16V]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[103768]]></mileage>
+		<daysininventory><![CDATA[40]]></daysininventory>
+		<transmissiontype><![CDATA[5 SPEED AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3004A]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[3N1CB51D04L822220]]></fullvin>
+		<carcolor><![CDATA[MAROON]]></carcolor>
+		<year><![CDATA[2004]]></year>
+		<asking><![CDATA[6999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[NISSAN]]></make>
+		<model><![CDATA[SENTRA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR (N)]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.8L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[145182]]></mileage>
+		<daysininventory><![CDATA[118]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3049]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[5J6RE4H52BL094720]]></fullvin>
+		<carcolor><![CDATA[RED]]></carcolor>
+		<year><![CDATA[2011]]></year>
+		<asking><![CDATA[16999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HONDA]]></make>
+		<model><![CDATA[CR-V]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[107484]]></mileage>
+		<daysininventory><![CDATA[167]]></daysininventory>
+		<transmissiontype><![CDATA[5 SPEED AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3066A]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1B3ES56C22D632672]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2002]]></year>
+		<asking><![CDATA[5999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[DODGE]]></make>
+		<model><![CDATA[NEON]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.0L; SOHC 16V]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[179558]]></mileage>
+		<daysininventory><![CDATA[126]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3068]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1FMCU93G79KC04175]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[18999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[FORD]]></make>
+		<model><![CDATA[ESCAPE]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.0L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[60518]]></mileage>
+		<daysininventory><![CDATA[160]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3072]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1AL55F277364579]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[10999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[COBALT]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DR]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.2L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[101053]]></mileage>
+		<daysininventory><![CDATA[158]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3075A]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G2AL55F877344025]]></fullvin>
+		<carcolor><![CDATA[BLACK]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[7999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[PONTIAC]]></make>
+		<model><![CDATA[G5]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.2L; DOHC 16V]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[152612]]></mileage>
+		<daysininventory><![CDATA[98]]></daysininventory>
+		<transmissiontype><![CDATA[5 SPEED MANUAL]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3101]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1J8GN28K18W221027]]></fullvin>
+		<carcolor><![CDATA[BLACK]]></carcolor>
+		<year><![CDATA[2008]]></year>
+		<asking><![CDATA[16999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[JEEP]]></make>
+		<model><![CDATA[LIBERTY]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.7L (225 CID)]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[105163]]></mileage>
+		<daysininventory><![CDATA[146]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3114]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2HKYF18557H502913]]></fullvin>
+		<carcolor><![CDATA[MAROON]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[16999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HONDA]]></make>
+		<model><![CDATA[PILOT]]></model>
+		<type><![CDATA[SUV]]></type>
+		<bodytype><![CDATA[4D SUV 4WD]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[3.5L V6 ENGINE]]></cycles>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[123483]]></mileage>
+		<daysininventory><![CDATA[125]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3115]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2HKYF18476H539984]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2006]]></year>
+		<asking><![CDATA[16999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HONDA]]></make>
+		<model><![CDATA[PILOT]]></model>
+		<type><![CDATA[SUV]]></type>
+		<bodytype><![CDATA[4D 4WD THIRD ROW]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[3.5L V6 ENGINE]]></cycles>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[129421]]></mileage>
+		<daysininventory><![CDATA[125]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3134]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[5NMSH73E69H266802]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[15999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HYUNDAI]]></make>
+		<model><![CDATA[SANTA FE]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4DR WAG ]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.3L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[119429]]></mileage>
+		<daysininventory><![CDATA[112]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3147]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1FAHP35N98W281525]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2008]]></year>
+		<asking><![CDATA[11999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[FORD]]></make>
+		<model><![CDATA[FOCUS]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.0L; DOHC 16V]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[96902]]></mileage>
+		<daysininventory><![CDATA[99]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3167]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[4T1BE46KX7U169919]]></fullvin>
+		<carcolor><![CDATA[GRAY]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[15999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[CAMRY]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[76779]]></mileage>
+		<daysininventory><![CDATA[90]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3190]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[3FAHP0GA0CR334858]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2012]]></year>
+		<asking><![CDATA[13999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[FORD]]></make>
+		<model><![CDATA[FUSION]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.5L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[112003]]></mileage>
+		<daysininventory><![CDATA[76]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3193]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2T3BF4DV3AW060341]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2010]]></year>
+		<asking><![CDATA[17999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[RAV4]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.5L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[101810]]></mileage>
+		<daysininventory><![CDATA[76]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3194]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2T1BU40E39C025932]]></fullvin>
+		<carcolor><![CDATA[BLACK]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[13999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[COROLLA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.8L; DOHC 16V; VVT-I]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[109561]]></mileage>
+		<daysininventory><![CDATA[76]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3198]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WB58N489109797]]></fullvin>
+		<carcolor><![CDATA[GOLD]]></carcolor>
+		<year><![CDATA[2008]]></year>
+		<asking><![CDATA[13999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.5L; SFI]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[80376]]></mileage>
+		<daysininventory><![CDATA[71]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3201]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[4T1BE46K47U165221]]></fullvin>
+		<carcolor><![CDATA[GOLD]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[12999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[CAMRY]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[137349]]></mileage>
+		<daysininventory><![CDATA[70]]></daysininventory>
+		<transmissiontype><![CDATA[]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3204]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WB57N591190942]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.5L; SFI]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[56247]]></mileage>
+		<daysininventory><![CDATA[69]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3210]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[JTKKT624460131744]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2006]]></year>
+		<asking><![CDATA[11999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[SCION]]></make>
+		<model><![CDATA[XA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[HATCHBACK]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.5L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[93731]]></mileage>
+		<daysininventory><![CDATA[69]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3211]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[KMHDN46D15U110779]]></fullvin>
+		<carcolor><![CDATA[TAN]]></carcolor>
+		<year><![CDATA[2005]]></year>
+		<asking><![CDATA[8999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HYUNDAI]]></make>
+		<model><![CDATA[ELANTRA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.0L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[126536]]></mileage>
+		<daysininventory><![CDATA[69]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3213]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1FAFP34P83W215535]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2003]]></year>
+		<asking><![CDATA[8999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[FORD]]></make>
+		<model><![CDATA[FOCUS]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.0L (121 CID); SOHC 8V; EFI-SPI]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[91191]]></mileage>
+		<daysininventory><![CDATA[69]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3216]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2T1BU4EE5BC713753]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2011]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[COROLLA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.8L; DOHC 16V; VVT-I]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[105884]]></mileage>
+		<daysininventory><![CDATA[69]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3218]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1FAHP3FN4BW158141]]></fullvin>
+		<carcolor><![CDATA[WHITE]]></carcolor>
+		<year><![CDATA[2011]]></year>
+		<asking><![CDATA[9999]]></asking>
+		<requireddown><![CDATA[395]]></requireddown>
+		<condition><![CDATA[Budget Blvd]]></condition>
+		<payments><![CDATA[78]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[FORD]]></make>
+		<model><![CDATA[FOCUS]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.0L; DOHC 16V]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[144095]]></mileage>
+		<daysininventory><![CDATA[64]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1783]]></logo>
+		<level><![CDATA[Blue]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3219]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1C3CDZAB8EN116082]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2014]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[DODGE]]></make>
+		<model><![CDATA[AVENGER]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[93430]]></mileage>
+		<daysininventory><![CDATA[64]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3223]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1ZA5EU0CF268201]]></fullvin>
+		<carcolor><![CDATA[TAN]]></carcolor>
+		<year><![CDATA[2012]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[MALIBU]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[78154]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3226]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1ZA5EU7CF313652]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2012]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[MALIBU]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[81778]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3228]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1ZA5EU0CF387821]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2012]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[MALIBU]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[82403]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3229]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WA5E39E1135389]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2014]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA LIMITED]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.6L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[78374]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3230]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WF5E34D1266195]]></fullvin>
+		<carcolor><![CDATA[GRAY]]></carcolor>
+		<year><![CDATA[2013]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.6L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[83813]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3231]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WF5E34C1261254]]></fullvin>
+		<carcolor><![CDATA[GOLD]]></carcolor>
+		<year><![CDATA[2012]]></year>
+		<asking><![CDATA[13999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.6L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[85349]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3232]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WA5E31E1149996]]></fullvin>
+		<carcolor><![CDATA[GRAY]]></carcolor>
+		<year><![CDATA[2014]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA LIMITED]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.6L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[71645]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3237]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1AL55F487236846]]></fullvin>
+		<carcolor><![CDATA[WHITE]]></carcolor>
+		<year><![CDATA[2008]]></year>
+		<asking><![CDATA[11999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[COBALT]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.2L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[112194]]></mileage>
+		<daysininventory><![CDATA[63]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3244]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1J8FF48B79D158033]]></fullvin>
+		<carcolor><![CDATA[BLACK]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[16999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[JEEP]]></make>
+		<model><![CDATA[PATRIOT]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.4L; DOHC 16V]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[83685]]></mileage>
+		<daysininventory><![CDATA[55]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3246]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[KMHCN46CX9U286190]]></fullvin>
+		<carcolor><![CDATA[BLACK]]></carcolor>
+		<year><![CDATA[2009]]></year>
+		<asking><![CDATA[12999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[HYUNDAI]]></make>
+		<model><![CDATA[ACCENT]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.6L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[71175]]></mileage>
+		<daysininventory><![CDATA[55]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3248]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1J8GR48K37C537299]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2007]]></year>
+		<asking><![CDATA[15999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[JEEP]]></make>
+		<model><![CDATA[GRAND CHEROKEE]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.7L (225 CID)]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[109100]]></mileage>
+		<daysininventory><![CDATA[55]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3252]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2B3KA43R08H239225]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2008]]></year>
+		<asking><![CDATA[13999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[DODGE]]></make>
+		<model><![CDATA[CHARGER]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 2.7L; FFV; DOHC 24V]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[117448]]></mileage>
+		<daysininventory><![CDATA[50]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3253]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[3FAFP07176R109431]]></fullvin>
+		<carcolor><![CDATA[GRAY]]></carcolor>
+		<year><![CDATA[2006]]></year>
+		<asking><![CDATA[11999]]></asking>
+		<requireddown><![CDATA[399]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[FORD]]></make>
+		<model><![CDATA[FUSION]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.0L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[128238]]></mileage>
+		<daysininventory><![CDATA[50]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3256]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2G1WG5E30D1215385]]></fullvin>
+		<carcolor><![CDATA[SILVER]]></carcolor>
+		<year><![CDATA[2013]]></year>
+		<asking><![CDATA[14999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[IMPALA]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V6, 3.6L; FFV; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[95705]]></mileage>
+		<daysininventory><![CDATA[50]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3258]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[1G1PC5SB4E7325419]]></fullvin>
+		<carcolor><![CDATA[RED]]></carcolor>
+		<year><![CDATA[2014]]></year>
+		<asking><![CDATA[17999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[CRUZE]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 1.4L; FFV; DOHC; VVT; TURBO]]></cycles>
+		<fueltype><![CDATA[GASOLINE/E85]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[49722]]></mileage>
+		<daysininventory><![CDATA[43]]></daysininventory>
+		<transmissiontype><![CDATA[6 SPEED AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3259]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[KNAFU4A2XD5740585]]></fullvin>
+		<carcolor><![CDATA[GRAY]]></carcolor>
+		<year><![CDATA[2013]]></year>
+		<asking><![CDATA[15999]]></asking>
+		<requireddown><![CDATA[699]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[91]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[KIA]]></make>
+		<model><![CDATA[FORTE]]></model>
+		<type><![CDATA[PASSENGER CAR]]></type>
+		<bodytype><![CDATA[4 DOOR SEDAN]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.0L; DOHC]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[True]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[53850]]></mileage>
+		<daysininventory><![CDATA[43]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3263]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[3GNEK13TX3G261882]]></fullvin>
+		<carcolor><![CDATA[GREEN]]></carcolor>
+		<year><![CDATA[2003]]></year>
+		<asking><![CDATA[18999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[CHEVROLET]]></make>
+		<model><![CDATA[AVALANCHE]]></model>
+		<type><![CDATA[PICKUP TRUCK]]></type>
+		<bodytype><![CDATA[4 DOOR CAB; CREW]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[V8, 5.3L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[117591]]></mileage>
+		<daysininventory><![CDATA[43]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+	<node>
+		<stocknumber><![CDATA[3281]]></stocknumber>
+		<status><![CDATA[GREEN TAG]]></status>
+		<fullvin><![CDATA[2T3BF4DV9BW113268]]></fullvin>
+		<carcolor><![CDATA[BLUE]]></carcolor>
+		<year><![CDATA[2011]]></year>
+		<asking><![CDATA[16999]]></asking>
+		<requireddown><![CDATA[999]]></requireddown>
+		<condition><![CDATA[RWB Certified]]></condition>
+		<payments><![CDATA[104]]></payments>
+		<interestrate><![CDATA[19.9%]]></interestrate>
+		<payment><![CDATA["=PMT(J2/26,I2,H2)"]]></payment>
+		<make><![CDATA[TOYOTA]]></make>
+		<model><![CDATA[RAV4]]></model>
+		<type><![CDATA[MULTIPURPOSE VEHICLE (MPV)]]></type>
+		<bodytype><![CDATA[4 DOOR WAGON]]></bodytype>
+		<trim><![CDATA[]]></trim>
+		<gvw><![CDATA[0]]></gvw>
+		<cycles><![CDATA[L4, 2.5L]]></cycles>
+		<fueltype><![CDATA[GASOLINE]]></fueltype>
+		<siriusxm><![CDATA[False]]></siriusxm>
+		<features><![CDATA[]]></features>
+		<mileage><![CDATA[119416]]></mileage>
+		<daysininventory><![CDATA[27]]></daysininventory>
+		<transmissiontype><![CDATA[AUTOMATIC]]></transmissiontype>
+		<logo><![CDATA[1781]]></logo>
+		<level><![CDATA[False]]></level>
+	</node>
+</data>

@@ -1,0 +1,6 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">test_drive_request</custom-type>
+    <custom-type translate="1">listings</custom-type>
+  </custom-types>
+</wpml-config>

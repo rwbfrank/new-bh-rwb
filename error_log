@@ -1,0 +1,58 @@
+[26-Dec-2017 12:59:13 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 12:59:22 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 12:59:26 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 12:59:38 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 13:01:01 UTC] PHP Parse error:  syntax error, unexpected 'Vehicle' (T_STRING) in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 98
+[26-Dec-2017 13:28:59 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ')' in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 91
+[26-Dec-2017 13:30:51 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ')' in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 91
+[26-Dec-2017 13:30:53 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ')' in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 91
+[26-Dec-2017 13:30:55 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ')' in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 91
+[26-Dec-2017 13:34:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function do_shortcodes_in_html_tags(), 1 passed in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 89 and exactly 3 expected in /home/fbalcavage1/public_html/wp-includes/shortcodes.php:349
+Stack trace:
+#0 /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php(89): do_shortcodes_in_html_tags('[vc_tab title="...')
+#1 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(319): listing_vehicle_overview('', '', 'listing_vehicle...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '</p>\n[listing_v...')
+#4 /home/fbalcavage1/public_html/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('</p>\n[listing_v...')
+#5 /home/fbalcavage1/public_html/wp-content/themes/motors/vc_templates/vc_tabs.php(70): wpb_js_remove_wpautop('</p>\n[listing_v...')
+#6 /home/fbalcavage1/pub in /home/fbalcavage1/public_html/wp-includes/shortcodes.php on line 349
+[26-Dec-2017 13:35:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function do_shortcodes_in_html_tags(), 1 passed in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 89 and exactly 3 expected in /home/fbalcavage1/public_html/wp-includes/shortcodes.php:349
+Stack trace:
+#0 /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php(89): do_shortcodes_in_html_tags('[vc_tab title="...')
+#1 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(319): listing_vehicle_overview('', '', 'listing_vehicle...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '</p>\n[listing_v...')
+#4 /home/fbalcavage1/public_html/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('</p>\n[listing_v...')
+#5 /home/fbalcavage1/public_html/wp-content/themes/motors/vc_templates/vc_tabs.php(70): wpb_js_remove_wpautop('</p>\n[listing_v...')
+#6 /home/fbalcavage1/pub in /home/fbalcavage1/public_html/wp-includes/shortcodes.php on line 349
+[26-Dec-2017 13:36:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function do_shortcodes_in_html_tags(), 1 passed in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 89 and exactly 3 expected in /home/fbalcavage1/public_html/wp-includes/shortcodes.php:349
+Stack trace:
+#0 /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php(89): do_shortcodes_in_html_tags('[vc_tab title="...')
+#1 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(319): listing_vehicle_overview('', '', 'listing_vehicle...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '</p>\n[listing_v...')
+#4 /home/fbalcavage1/public_html/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('</p>\n[listing_v...')
+#5 /home/fbalcavage1/public_html/wp-content/themes/motors/vc_templates/vc_tabs.php(70): wpb_js_remove_wpautop('</p>\n[listing_v...')
+#6 /home/fbalcavage1/pub in /home/fbalcavage1/public_html/wp-includes/shortcodes.php on line 349
+[26-Dec-2017 13:44:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function do_shortcodes_in_html_tags(), 1 passed in /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php on line 89 and exactly 3 expected in /home/fbalcavage1/public_html/wp-includes/shortcodes.php:349
+Stack trace:
+#0 /home/fbalcavage1/public_html/wp-content/themes/motors/functions.php(89): do_shortcodes_in_html_tags('[vc_tab title="...')
+#1 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(319): listing_vehicle_overview('', '', 'listing_vehicle...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/fbalcavage1/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '</p>\n[listing_v...')
+#4 /home/fbalcavage1/public_html/wp-content/plugins/js_composer/include/helpers/helpers.php(232): do_shortcode('</p>\n[listing_v...')
+#5 /home/fbalcavage1/public_html/wp-content/themes/motors/vc_templates/vc_tabs.php(70): wpb_js_remove_wpautop('</p>\n[listing_v...')
+#6 /home/fbalcavage1/pub in /home/fbalcavage1/public_html/wp-includes/shortcodes.php on line 349
+[30-Dec-2017 01:42:48 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/fbalcavage1/public_html/wp-content/themes/motors/listings/loop/default/list/price.php on line 35
+[30-Dec-2017 01:42:53 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/fbalcavage1/public_html/wp-content/themes/motors/listings/loop/default/list/price.php on line 35
+[30-Dec-2017 01:43:52 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/fbalcavage1/public_html/wp-content/themes/motors/listings/loop/default/list/price.php on line 35
+[30-Dec-2017 01:43:59 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/fbalcavage1/public_html/wp-content/themes/motors/listings/loop/default/list/price.php on line 35
+[30-Dec-2017 01:44:05 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/fbalcavage1/public_html/wp-content/themes/motors/listings/loop/default/list/price.php on line 35
+[31-Dec-2017 18:20:09 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:23:23 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:34:55 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:38:26 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:39:43 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:39:45 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:39:56 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
+[31-Dec-2017 18:40:08 UTC] PHP Parse error:  syntax error, unexpected '$gallery' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/fbalcavage1/public_html/wp-content/plugins/stm_wp_all_import_addon/stm_wp_all_import_addon.php on line 211
